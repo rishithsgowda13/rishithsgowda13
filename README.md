@@ -47,13 +47,21 @@ GitHub Actions | REST APIs | Authentication | JWT | MVC Architecture
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Connect with Me
 
-| Platform | Link |
-|----------|------|
-| LinkedIn | *(www.linkedin.com/in/rishithsgowda)* |
-| Email | *(rishithsgowda13@gmail.com)* |
-| Instagram | *(https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rishith_s_gowda?igsh=MTBrZHk0NHMzeDR2Mw==)
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishithsgowda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/https://www.instagram.com/rishith_s_gowda?igsh=MTBrZHk0NHMzeDR2Mw" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:rishithsgowda13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ⭐ Thanks for visiting my profile!
