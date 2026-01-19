@@ -51,9 +51,9 @@ GitHub Actions | REST APIs | Authentication | JWT | MVC Architecture
 
 | Platform | Link |
 |----------|------|
-| LinkedIn | *(Add your LinkedIn URL)* |
-| Email | *(Your professional email)* |
-
+| LinkedIn | *(www.linkedin.com/in/rishithsgowda)* |
+| Email | *(rishithsgowda13@gmail.com)* |
+| Instagram | *(https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rishith_s_gowda?igsh=MTBrZHk0NHMzeDR2Mw==)
 ---
 
 ⭐ Thanks for visiting my profile!
