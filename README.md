@@ -1,48 +1,55 @@
 # 👋 Hi, I’m **Rishith S Gowda**
 
-🎓 *Computer Science & Engineering Student*  
+🎓 Computer Science & Engineering Student  
 📍 India  
-🚀 Passionate about building scalable backend systems, full-stack web apps, and solving real-world problems.
+💻 Backend-first Developer | Full-Stack Web Development  
+🚀 Passionate about building real-world, scalable web applications
 
 ---
 
-## 🔭 About Me
-I’m a first-year Computer Science & Engineering student at Vidya Vardhaka College of Engineering. I enjoy creating projects that combine clean design with powerful technologies. I’m continuously learning backend development, APIs, cloud services, and best practices in software engineering.
+## 👨‍💻 About Me
+I am a Computer Science & Engineering student with a strong interest in backend development and full-stack web application development.
 
-🌱 Currently improving skills in Node.js, Supabase, PostgreSQL, and distributed systems.
+I enjoy designing backend systems, building REST APIs, and working with databases, while also developing complete web applications by integrating frontend and backend components. I focus on writing clean, maintainable code and building solutions that solve practical problems.
+
+🌱 Currently improving my skills in **Node.js, PostgreSQL, Supabase**, and backend system design.
 
 ---
 
 ## 🧠 Skills
 
-### 💻 Programming & Frameworks
-- **Languages:** C, C++, Java, JavaScript, Python  
-- **Backend:** Node.js, Express  
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Databases:** PostgreSQL, Supabase, MongoDB  
-- **Tools:** Git, GitHub, VS Code
+### 💻 Core Technologies
+- **Languages:** JavaScript, Java, C, C++  
+- **Backend:** Node.js, Express.js  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Databases:** PostgreSQL, Supabase  
+- **Tools:** Git, GitHub, VS Code  
 
-### ☁ Cloud & Deployment
-- AWS | Firebase | Vercel | Netlify
-
-### 📦 Others
-GitHub Actions | REST APIs | Authentication | JWT | MVC Architecture
+### 🔌 Backend Concepts
+- REST APIs  
+- Authentication & Authorization  
+- Database Design  
+- MVC Architecture  
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **MysuruSampada** | Cultural tourism guide platform with interactive UI and real-world features | JavaScript |
-| *(Add more projects here)* | *(Short description)* | *(Tech used)* |
+### 🏛 **Mysuru Sampada**
+Smart tourism and cultural exploration web platform  
+**Role:** Backend & Full-Stack Development  
+**Tech:** Node.js, JavaScript, Database Integration  
 
-👉 Check out the 🔗 *Pinned Repositories* section below!
+### 🧠 **Fingerprint Attendance System**
+Biometric-based attendance management system  
+**Role:** Backend Development  
+**Tech:** Backend logic, database management  
+
+👉 Check the **Pinned Repositories** below for detailed implementations.
 
 ---
 
 ## 📈 GitHub Stats
-
 ![Rishith’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishithsgowda13&show_icons=true&theme=default)
 
 ---
@@ -54,7 +61,7 @@ GitHub Actions | REST APIs | Authentication | JWT | MVC Architecture
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/https://www.instagram.com/rishith_s_gowda?igsh=MTBrZHk0NHMzeDR2Mw" target="_blank">
+  <a href="https://www.instagram.com/rishith_s_gowda?igsh=MTBrZHk0NHMzeDR2Mw" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
@@ -62,6 +69,5 @@ GitHub Actions | REST APIs | Authentication | JWT | MVC Architecture
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 ⭐ Thanks for visiting my profile!
