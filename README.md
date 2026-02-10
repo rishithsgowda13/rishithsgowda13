@@ -6,7 +6,11 @@
 🚀 Passionate about building real-world, scalable web applications
 
 ---
+---
+ <img src="naga.svg.svg"/>
 
+ ---
+ 
 ## 🧠 Skills
 
 ### 💻 Core Technologies
@@ -64,8 +68,4 @@ Biometric-based attendance management system
 ⭐ Thanks for visiting my profile!
 
 
----
- <img src="naga.svg.svg"/>
 
- ---
- 
