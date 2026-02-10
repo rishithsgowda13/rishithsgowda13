@@ -7,15 +7,6 @@
 
 ---
 
-## 👨‍💻 About Me
-I am a Computer Science & Engineering student with a strong interest in backend development and full-stack web application development.
-
-I enjoy designing backend systems, building REST APIs, and working with databases, while also developing complete web applications by integrating frontend and backend components. I focus on writing clean, maintainable code and building solutions that solve practical problems.
-
-🌱 Currently improving my skills in **Node.js, PostgreSQL, Supabase**, and backend system design.
-
----
-
 ## 🧠 Skills
 
 ### 💻 Core Technologies
