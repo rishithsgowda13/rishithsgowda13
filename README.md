@@ -71,3 +71,10 @@ Biometric-based attendance management system
 </p>
 
 ⭐ Thanks for visiting my profile!
+
+
+---
+ <img src="naga.svg.svg"/>
+
+ ---
+ 
