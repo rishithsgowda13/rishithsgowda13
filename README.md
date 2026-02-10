@@ -44,10 +44,6 @@ Biometric-based attendance management system
 
 ---
 
-## 📈 GitHub Stats
-![Rishith’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishithsgowda13&show_icons=true&theme=default)
-
----
 
 ## 🌐 Connect with Me
 
