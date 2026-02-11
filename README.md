@@ -6,7 +6,6 @@
 🚀 Passionate about building real-world, scalable web applications
 
 ---
----
  <img src="naga.svg.svg"/>
 
  ---
