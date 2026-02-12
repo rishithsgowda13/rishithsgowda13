@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Rishith S Gowda**
+  # 👋 Hi, I’m **Rishith S Gowda**
 
 🎓 Computer Science & Engineering Student  
 📍 Mysuru,Karnataka,India  
