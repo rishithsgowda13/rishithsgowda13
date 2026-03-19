@@ -1,5 +1,6 @@
   # 👋 Hi , I’m **Rishith S Gowda**
 
+  
 🎓 Computer Science & Engineering Student  
 📍 Mysuru,Karnataka,India  
 💻 Backend-first Developer | Full-Stack Web Development  
