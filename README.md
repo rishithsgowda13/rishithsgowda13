@@ -50,7 +50,7 @@ I'm a **Computer Science & Engineering** student based in Mysuru, driven by the 
 
 <div align="center">
 
-[![Rishith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishithsgowda13&bg_color=0d1117&color=6a00ff&line=a0f0f0&point=ffffff&area=true&area_color=6a00ff20&hide_border=true&radius=6)](https://github.com/rishithsgowda13)
+[![Rishith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishithsgowda13&bg_color=0d1117&color=6a00ff&line=a0f0f0&point=ffffff&hide_border=true&radius=6)](https://github.com/rishithsgowda13)
 
 </div>
 
