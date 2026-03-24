@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=600&color=6A00FF&center=true&vCenter=true&width=800&lines=💻+Full+Stack+Developer;🛡️+Cyber+Security+Enthusiast;⚙️+Backend+Architecture+Specialist;🧠+Building+Scalable+%26+Secure+Systems;🔥+Passionate+about+Real-World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=600&color=6A00FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Backend+Architecture+Specialist;Building+Scalable+and+Secure+Systems;Passionate+about+Real-World+Impact" alt="Typing SVG" />
 
 <br/>
 
@@ -22,27 +22,7 @@
 
 <br/>
 
-<!-- ═══════════════════════ IDENTITY CARD ═══════════════════════ -->
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ██████  ██████  ██████  ██████  ██████  ██████  ██████  ██████   │
-│                     SYSTEM IDENTITY // v1.0.0                      │
-│   ██████  ██████  ██████  ██████  ██████  ██████  ██████  ██████   │
-│                                                                     │
-│   NAME         ──▶  Rishith S Gowda                                │
-│   ROLE         ──▶  CSE Student · Full-Stack · Security Explorer   │
-│   LOCATION     ──▶  Mysuru, Karnataka 🇮🇳                           │
-│   INTERESTS    ──▶  Backend Logic · Secure Design · REST APIs      │
-│   STATUS       ──▶  ████████████████████ ONLINE — Learning ∞       │
-│   CORE STACK   ──▶  Node.js · Express · PostgreSQL · JavaScript    │
-│   MISSION      ──▶  Build robust applications with a security lens │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
 
 ---
 
