@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=2000&pause=600&color=6A00FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Backend+Architecture+Specialist;Building+Scalable+and+Secure+Systems;Passionate+about+Real-World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=bold&size=24&duration=2000&pause=600&color=6A00FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Backend+Architecture+Specialist;Building+Scalable+and+Secure+Systems;Passionate+about+Real-World+Impact" alt="Typing SVG" />
 
 <br/>
 
@@ -15,8 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishithsgowda)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rishith_s_gowda)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishithsgowda13@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishithsgowda13)
-[![Profile Views](https://komarev.com/ghpvc/?username=rishithsgowda13&style=for-the-badge&color=6a00ff&label=VISITORS)](https://github.com/rishithsgowda13)
 
 </div>
 
