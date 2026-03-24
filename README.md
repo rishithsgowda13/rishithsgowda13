@@ -28,17 +28,19 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ABOUT ME
 
-> *"Security is not a product, but a process."* — Bruce Schneier
+> *"Engineering solutions where performance meets uncompromising security."*
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" />
 
-I'm a **Computer Science & Engineering** student based in Mysuru, driven by the challenge of bridging high-performance **Full-Stack Development** with industry-standard **Cybersecurity** practices. I specialize in backend architecture and love turning complex problems into scalable, production-ready code.
+I am a **Computer Science & Engineering** student driven by an inherent curiosity to dissect how complex technologies operate under the hood. My technical philosophy centers on continuous experimentation—understanding precisely how applications are architected, how distinct systems communicate, and how platforms can scale reliably.
 
-- ⚙️ **Backend-First** — Architecting robust server-side logic and RESTful APIs.
-- 🛡️ **Security Focused** — Implementing secure authentication and data protection.
-- 🏛️ **Mysuru Sampada** — Developing a full-stack platform for smart tourism.
-- 🪪 **Biometrics** — Building backend infrastructures for fingerprint systems.
-- 🧠 **Continuous Learner** — Exploring MVC patterns, database design, and web security.
+I am currently engineering **Full-Stack Web Applications**, bridging dynamic frontend interfaces with robust backend infrastructures, APIs, and databases. In parallel, I am actively expanding my expertise in **Cybersecurity fundamentals**, exploring the mechanics of designing systems that are both highly efficient and intrinsically secure against intrusion.
+
+### 🌱 Current Trajectory & Focus
+- 💻 **Full-Stack Ecosystems** — Architecting end-to-end applications and mastering backend logic.
+- 🛡️ **Cybersecurity** — Exploring system vulnerabilities, reliable design, and defense practices.
+- ⚙️ **Deep Systems Knowledge** — Dissecting data flow, network communication, and database architecture.
+- 🎯 **Continuous Improvement** — Solving real-world problems through persistent technical exploration.
 
 <br clear="right"/>
 
