@@ -46,11 +46,15 @@ I'm a **Computer Science & Engineering** student based in Mysuru, driven by the 
 
 <!-- ═══════════════════════ COMMIT ACTIVITY ═══════════════════════ -->
 
-## 📡 COMMIT ACTIVITY
+## 📡 SNAKE COMMIT ACTIVITY
 
 <div align="center">
 
-[![Rishith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishithsgowda13&bg_color=0d1117&color=6a00ff&line=a0f0f0&point=ffffff&area=true&area_color=6a00ff20&hide_border=true&radius=6)](https://github.com/rishithsgowda13)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishithsgowda13/rishithsgowda13/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishithsgowda13/rishithsgowda13/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishithsgowda13/rishithsgowda13/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
