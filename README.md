@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:001a1a,60:08001a,100:6a00ff&height=300&section=header&text=RISHITH%20S%20GOWDA&fontSize=72&fontColor=ffffff&fontAlignY=40&desc= %20Full-Stack%20·%20Cyber%20Security%20Enthusiast%20 &descAlignY=60&descSize=20&descColor=a0f0f0&animation=twinkling&stroke=6a00ff&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:001a1a,60:08001a,100:6a00ff&height=300&section=header&text=RISHITH%20S%20GOWDA&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20·%20Cyber%20Security%20Enthusiast&descAlignY=60&descSize=20&descColor=a0f0f0&animation=twinkling&stroke=6a00ff&strokeWidth=2" />
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
