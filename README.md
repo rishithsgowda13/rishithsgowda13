@@ -107,7 +107,7 @@ I'm a **Computer Science & Engineering** student based in Mysuru, driven by the 
 
 <br/>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=rishithsgowda13&theme=nord&hide_border=true&background=0d1117&ring=6a00ff&fire=6a00ff&currStreakLabel=a0f0f0&sideLabels=c9d1d9&dates=c9d1d9&stroke=0d1117&border_radius=12" />
+<img width="78%" src="https://streak-stats.demolab.com?user=rishithsgowda13&theme=nord&hide_border=true&background=0d1117&ring=6a00ff&fire=6a00ff&currStreakLabel=a0f0f0&sideLabels=c9d1d9&dates=c9d1d9&stroke=0d1117&border_radius=12" />
 
 </div>
 
