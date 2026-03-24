@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=bold&size=24&duration=2000&pause=600&color=6A00FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Backend+Architecture+Specialist;Building+Scalable+and+Secure+Systems;Passionate+about+Real-World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2000&pause=600&color=6A00FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Backend+Architecture+Specialist;Building+Scalable+and+Secure+Systems;Passionate+about+Real-World+Impact" alt="Typing SVG" />
 
 <br/>
 
@@ -46,15 +46,11 @@ I'm a **Computer Science & Engineering** student based in Mysuru, driven by the 
 
 <!-- ═══════════════════════ COMMIT ACTIVITY ═══════════════════════ -->
 
-## 📡 COMMIT ACTIVITY (FLOWING GRID)
+## 📡 COMMIT ACTIVITY
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishithsgowda13/rishithsgowda13/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishithsgowda13/rishithsgowda13/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishithsgowda13/rishithsgowda13/output/github-contribution-grid-snake.svg" />
-</picture>
+[![Rishith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishithsgowda13&bg_color=0d1117&color=6a00ff&line=a0f0f0&point=ffffff&area=true&area_color=6a00ff20&hide_border=true&radius=6)](https://github.com/rishithsgowda13)
 
 </div>
 
