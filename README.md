@@ -109,30 +109,6 @@ I am currently engineering **Full-Stack Web Applications**, bridging dynamic fro
 
 </div>
 
----
-
-<!-- ═══════════════════════ SYSTEM LOGS ═══════════════════════ -->
-
-## ⚡ SYSTEM LOGS
-
-```bash
-╔══════════════════════════════════════════════════════════════════════╗
-║                   // RUNTIME.LOG — rishithsgowda13 //               ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  [INFO]  Specializing in Backend-First Architecture           ⚙️     ║
-║  [INFO]  Building Smart Tourism solutions for Mysuru          🏛️     ║
-║  [INFO]  Integrating Biometrics with secure cloud DBs         🛡️     ║
-║  [INFO]  Exploring the vast landscape of Cybersecurity        🔍     ║
-║  [INFO]  Passionate about clean code and MVC patterns         ✨     ║
-║  [INFO]  Turning caffeine into scalable web applications      ☕     ║
-║                                                                      ║
-║  [STATUS] OPTIMIZING SYSTEMS — NEXT MODULE LOADING...                ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
