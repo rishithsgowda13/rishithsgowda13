@@ -10,12 +10,6 @@
 
 <br/>
 
-<!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishithsgowda)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rishith_s_gowda)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishithsgowda13@gmail.com)
-
 </div>
 
 <br/>
@@ -133,7 +127,21 @@ I am currently engineering **Full-Stack Web Applications**, bridging dynamic fro
 
 ---
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<!-- ═══════════════════════ CONTACT ME ═══════════════════════ -->
+ 
+ ## 📧 CONTACT ME
+ 
+ <div align="center">
+ 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishithsgowda)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rishith_s_gowda)
+ [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishithsgowda13@gmail.com)
+ 
+ </div>
+ 
+ ---
+ 
+ <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
 
