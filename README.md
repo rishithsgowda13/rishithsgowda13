@@ -9,8 +9,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2000&pause=600&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Backend+Architecture+Specialist;Building+Scalable+and+Secure+Systems;Passionate+about+Real-World+Impact" alt="Typing SVG" />
 
 <br/>
-
-</div>
+ 
+ <!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
+ 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishithsgowda)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rishith_s_gowda)
+ [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishithsgowda13@gmail.com)
+ 
+ </div>
 
 <br/>
 
@@ -127,21 +133,7 @@ I am currently engineering **Full-Stack Web Applications**, bridging dynamic fro
 
 ---
 
-<!-- ═══════════════════════ CONTACT ME ═══════════════════════ -->
- 
- ## 📧 CONTACT ME
- 
- <div align="center">
- 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishithsgowda)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rishith_s_gowda)
- [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishithsgowda13@gmail.com)
- 
- </div>
- 
- ---
- 
- <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
 
