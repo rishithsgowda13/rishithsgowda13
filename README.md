@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:001a1a,60:08001a,100:6a00ff&height=300&section=header&text=RISHITH%20S%20GOWDA&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20·%20Cyber%20Security%20Enthusiast&descAlignY=60&descSize=20&descColor=a0f0f0&animation=twinkling&stroke=6a00ff&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=RISHITH%20S%20GOWDA&fontSize=72&fontColor=ffffff&fontAlignY=50&desc=Full-Stack%20·%20Cyber%20Security%20Enthusiast&descAlignY=75&descSize=20&descColor=a0f0f0&stroke=6a00ff&strokeWidth=2" />
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 
@@ -30,8 +30,6 @@
 
 > *"Engineering solutions where performance meets uncompromising security."*
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" />
-
 I am a **Computer Science & Engineering** student driven by an inherent curiosity to dissect how complex technologies operate under the hood. My technical philosophy centers on continuous experimentation—understanding precisely how applications are architected, how distinct systems communicate, and how platforms can scale reliably.
 
 I am currently engineering **Full-Stack Web Applications**, bridging dynamic frontend interfaces with robust backend infrastructures, APIs, and databases. In parallel, I am actively expanding my expertise in **Cybersecurity fundamentals**, exploring the mechanics of designing systems that are both highly efficient and intrinsically secure against intrusion.
@@ -41,8 +39,6 @@ I am currently engineering **Full-Stack Web Applications**, bridging dynamic fro
 - 🛡️ **Cybersecurity** — Exploring system vulnerabilities, reliable design, and defense practices.
 - ⚙️ **Deep Systems Knowledge** — Dissecting data flow, network communication, and database architecture.
 - 🎯 **Continuous Improvement** — Solving real-world problems through persistent technical exploration.
-
-<br clear="right"/>
 
 ---
 
