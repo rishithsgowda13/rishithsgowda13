@@ -62,19 +62,6 @@ Not an expert. Building the foundation now.
 
 ---
 
-### 🔎 Invisible Cloak — Computer Vision Project
-> A Python script that simulates an invisibility cloak effect using real-time video processing.
-
-| | |
-|---|---|
-| **Stack** | Python · OpenCV |
-| **What I built** | Real-time color masking and background substitution pipeline |
-| **What I learned** | How image segmentation and HSV color space detection works |
-| **Status** | ✅ Done |
-| **Code** | [View Repository](https://github.com/rishithsgowda13/Invisible-Cloak) |
-
----
-
 ## 🧰 Tools I Work With
 
 **Languages**
@@ -108,7 +95,7 @@ Not an expert. Building the foundation now.
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=rishithsgowda13&hide_border=true&background=0d1117&ring=a78bfa&fire=6a00ff&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&stroke=0d1117&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+<img width="70%" src="https://streak-stats.demolab.com?user=rishithsgowda13&hide_border=true&background=0d1117&ring=a78bfa&fire=6a00ff&currStreakLabel=a78bfa&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=6b7280&stroke=0d1117&border_radius=10&date_format=j%20M%5B%20Y%5D" />
 
 <br/><br/>
 
