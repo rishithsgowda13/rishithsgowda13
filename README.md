@@ -108,7 +108,11 @@ Not an expert. Building the foundation now.
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishithsgowda13&bg_color=0d1117&color=a78bfa&line=6a00ff&point=ffffff&hide_border=true&radius=6)](https://github.com/rishithsgowda13)
+<img width="70%" src="https://streak-stats.demolab.com?user=rishithsgowda13&hide_border=true&background=0d1117&ring=a78bfa&fire=6a00ff&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&stroke=0d1117&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishithsgowda13&bg_color=0d1117&color=a78bfa&line=6a00ff&point=a78bfa&hide_border=true&radius=6&area=true&area_color=6a00ff)](https://github.com/rishithsgowda13)
 
 </div>
 
