@@ -21,7 +21,7 @@ name     : Rishith S Gowda
 role     : CS Student
 location : Mysuru, India
 status   : Learning — backend, systems & security
-mindset  : Consistency over motivation
+mindset  : Consistency over motivation | streak: <!-- STREAK_COUNT -->🔥 ? days<!-- STREAK_COUNT_END -->
 ```
 
 ---
@@ -96,6 +96,21 @@ Not an expert. Building the foundation now.
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=rishithsgowda13&hide_border=true&background=0d1117&ring=a78bfa&fire=6a00ff&currStreakLabel=a78bfa&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=6b7280&stroke=0d1117&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+
+<br/><br/>
+
+### 🧩 Live Activity Grid
+<img src="https://raw.githubusercontent.com/rishithsgowda13/rishithsgowda13/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<br/><br/>
+
+### 🧱 Consistency Tracker (Live)
+<!-- START_STREAK_GRAPH -->
+```mermaid
+gitGraph
+    commit id: "Calculating..."
+```
+<!-- END_STREAK_GRAPH -->
 
 <br/><br/>
 

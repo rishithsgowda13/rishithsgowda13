@@ -34,6 +34,13 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#0d1117,#20004d,#400099,#6a00ff,#a0f0f0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update Streak Stats
+        run: |
+          pip install requests
+          python scripts/update_streak.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
@@ -44,3 +51,9 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit Updated README
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Updated contribution streak [skip ci]"
+          file_pattern: README.md
