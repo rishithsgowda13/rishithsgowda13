@@ -3,87 +3,107 @@ import requests
 import re
 from datetime import datetime, timedelta
 
-def get_contributions(username, token):
-    query = """
-    query($username:String!) {
-      user(login:$username) {
-        contributionsCollection {
-          contributionCalendar {
-            weeks {
-              contributionDays {
-                date
-                contributionCount
-              }
-            }
-          }
-        }
-      }
+def get_contributions_from_heatmap(username):
+    url = f"https://github.com/users/{username}/contributions"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html"
     }
-    """
-    url = "https://api.github.com/graphql"
-    headers = {"Authorization": f"Bearer {token}"}
     try:
-        response = requests.post(url, json={"query": query, "variables": {"username": username}}, headers=headers)
+        response = requests.get(url, headers=headers)
         if response.status_code != 200:
-            print(f"Error: API returned status {response.status_code}")
+            print(f"Failed to fetch heatmap, status code {response.status_code}")
             return []
         
-        data = response.json()
+        # Parse the HTML to find all td elements with data-date and id containing "contribution-day"
+        # The new GitHub UI uses tooltips, but the table cells still exist in the timeline.
+        html = response.text
+        
+        # Look for data-date="YYYY-MM-DD" and data-level="X"
         days = []
-        for week in data['data']['user']['contributionsCollection']['contributionCalendar']['weeks']:
-            for day in week['contributionDays']:
-                days.append(day)
+        matches = re.finditer(r'data-date="(\d{4}-\d{2}-\d{2})".*?data-level="(\d+)"', html)
+        for match in matches:
+            date_str = match.group(1)
+            level = int(match.group(2))
+            days.append({"date": date_str, "contributionCount": level})
+        
+        if not days:
+            # Alternate parsing if GitHub changed their UI classes
+            # Let's try capturing from the raw tool-tips or rx-data
+            matches = re.finditer(r'<tool-tip.*?>(\d+|No) contributions? on (\w+ \d+, \d+)</tool-tip>', html)
+            for match in matches:
+                count_str = match.group(1)
+                date_text = match.group(2)
+                
+                # Convert "No" to 0
+                count = 0 if count_str == "No" else int(count_str)
+                
+                # Convert "March 28, 2026" to "2026-03-28"
+                date_obj = datetime.strptime(date_text, "%B %d, %Y")
+                date_str = date_obj.strftime("%Y-%m-%d")
+                
+                days.append({"date": date_str, "contributionCount": count})
+                
+        # Sort chronologically descending
         return sorted(days, key=lambda x: x['date'], reverse=True)
     except Exception as e:
-        print(f"Exception during fetch: {e}")
+        print(f"Exception fetching heatmap: {e}")
         return []
 
 def calculate_streak(days):
     if not days:
         return 0
         
+    # Convert list to a lookup dictionary for fast exact-date checking
+    days_dict = {d['date']: d['contributionCount'] for d in days}
+    
+    # Forcefully ignore automated bot commit days
+    ignore_dates = ['2026-03-28']
+    for d in ignore_dates:
+        if d in days_dict:
+            days_dict[d] = 0
+            
     # Calculate IST time (UTC + 5:30)
     current_time_ist = datetime.utcnow() + timedelta(hours=5, minutes=30)
     current_date = current_time_ist.date()
     yesterday_date = current_date - timedelta(days=1)
     
     # Check if there is activity today or yesterday (relative to IST) to keep streak alive
-    has_activity_today = next((d for d in days if d['date'] == str(current_date) and d['contributionCount'] > 0), None)
-    has_activity_yesterday = next((d for d in days if d['date'] == str(yesterday_date) and d['contributionCount'] > 0), None)
+    count_today = days_dict.get(str(current_date), 0)
+    count_yesterday = days_dict.get(str(yesterday_date), 0)
 
-    if not has_activity_today and not has_activity_yesterday:
+    if count_today == 0 and count_yesterday == 0:
         return 0
 
     streak = 0
-    start_date = current_date if has_activity_today else yesterday_date
+    # Start iterating backwards from today or yesterday
+    check_date = current_date if count_today > 0 else yesterday_date
     
-    for day in days:
-        d = datetime.strptime(day['date'], '%Y-%m-%d').date()
-        if d > start_date:
-            continue
-        if day['contributionCount'] > 0:
+    # Step backwards exactly 1 day at a time, ensuring continuous calendar dates
+    while True:
+        date_str = str(check_date)
+        count = days_dict.get(date_str, 0)
+        
+        if count > 0:
             streak += 1
+            check_date -= timedelta(days=1)
         else:
-            if d < start_date:
-                break
+            # We hit a day with exactly 0 contributions (or ignored bot-only day)
+            break
+            
     return streak
 
 def main():
     username = "rishithsgowda13"
-    token = os.getenv("GH_TOKEN")
     
-    if not token:
-        print("GH_TOKEN not found. Skipping.")
-        return
-
-    print("Fetching contributions...")
-    days = get_contributions(username, token)
+    print("Fetching contributions from GitHub heatmap...")
+    days = get_contributions_from_heatmap(username)
     if not days:
         print("Failed to fetch contributions or no data found.")
         return
 
     streak = calculate_streak(days)
-    print(f"Actual verified streak (IST): {streak} days")
+    print(f"Actual verified streak from visual HTML graph: {streak} days")
 
     if not os.path.exists("README.md"):
         print("README.md not found!")
