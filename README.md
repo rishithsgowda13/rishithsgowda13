@@ -86,12 +86,22 @@ Not an expert. Building the foundation now.
 
 ---
 
-## 🔥 Consistency Tracker
+## 📊 GitHub Activity
 
 <div align="center">
-                                        <!-- STREAK_BADGE -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishithsgowda13&theme=react-dark&area=true&hide_border=true" width="100%" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rishithsgowda13&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishithsgowda13&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+
+  <br/><br/>
+
+  <!-- STREAK_BADGE -->
   <img src="https://img.shields.io/badge/Current_Streak-9_days-a78bfa?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak Tracker" />
   <!-- STREAK_BADGE_END -->
+</div>
 </div>
 
 ---
