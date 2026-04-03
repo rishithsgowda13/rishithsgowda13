@@ -89,7 +89,9 @@ Not an expert. Building the foundation now.
 ## 🔥 Consistency Tracker
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=rishithsgowda13&hide_border=true&background=0d1117&ring=a78bfa&fire=6a00ff&currStreakLabel=a78bfa&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=6b7280&stroke=0d1117&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Tracker" />
+  <!-- STREAK_BADGE -->
+  <img src="https://img.shields.io/badge/Current_Streak-Calculating..._days-a78bfa?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak Tracker" />
+  <!-- STREAK_BADGE_END -->
 </div>
 
 ---
