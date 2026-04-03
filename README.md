@@ -21,7 +21,7 @@ name     : Rishith S Gowda
 role     : CS Student
 location : Mysuru, India
 status   : Learning — backend, systems & security
-mindset  : Consistency over motivation | streak: <!-- STREAK_COUNT -->🔥 ? days<!-- STREAK_COUNT_END -->
+mindset  : Consistency over motivation
 ```
 
 ---
@@ -86,39 +86,7 @@ Not an expert. Building the foundation now.
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishithsgowda13&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=6a00ff&border_radius=10&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishithsgowda13&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10&langs_count=6" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=rishithsgowda13&hide_border=true&background=0d1117&ring=a78bfa&fire=6a00ff&currStreakLabel=a78bfa&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=6b7280&stroke=0d1117&border_radius=10&date_format=j%20M%5B%20Y%5D" />
-
-<br/><br/>
-
-### 🧩 Live Activity Grid
-<img src="https://raw.githubusercontent.com/rishithsgowda13/rishithsgowda13/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-<br/><br/>
-
-### 🧱 Consistency Tracker (Live)
-<!-- START_STREAK_GRAPH -->
-```mermaid
-gitGraph
-    commit id: "Calculating..."
-```
-<!-- END_STREAK_GRAPH -->
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishithsgowda13&bg_color=0d1117&color=a78bfa&line=6a00ff&point=a78bfa&hide_border=true&radius=6&area=true&area_color=6a00ff)](https://github.com/rishithsgowda13)
-
-</div>
-
----
 
 ## 💭 Mindset
 
