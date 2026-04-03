@@ -21,7 +21,7 @@ name     : Rishith S Gowda
 role     : CS Student
 location : Mysuru, India
 status   : Learning — backend, systems & security
-mindset  : Consistency over motivation | streak: <!-- STREAK_COUNT -->🔥 ? days<!-- STREAK_COUNT_END -->
+mindset  : Consistency over motivation | streak: <!-- STREAK_COUNT -->🔥 32 days<!-- STREAK_COUNT_END -->
 ```
 
 ---
@@ -108,7 +108,21 @@ Not an expert. Building the foundation now.
 <!-- START_STREAK_GRAPH -->
 ```mermaid
 gitGraph
-    commit id: "Calculating..."
+    commit id: "streak_start" tag: "2026-03-21"
+    commit id: "2026-03-21"
+    commit id: "2026-03-22"
+    commit id: "2026-03-23"
+    commit id: "2026-03-24"
+    commit id: "2026-03-25"
+    commit id: "2026-03-26"
+    commit id: "2026-03-27"
+    commit id: "2026-03-28"
+    commit id: "2026-03-29"
+    commit id: "2026-03-30"
+    commit id: "2026-03-31"
+    commit id: "2026-04-01"
+    commit id: "2026-04-02"
+    commit id: "2026-04-03"
 ```
 <!-- END_STREAK_GRAPH -->
 
