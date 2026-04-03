@@ -89,7 +89,7 @@ Not an expert. Building the foundation now.
 ## 🔥 Consistency Tracker
 
 <div align="center">
-            <!-- STREAK_BADGE -->
+              <!-- STREAK_BADGE -->
   <img src="https://img.shields.io/badge/Current_Streak-6_days-a78bfa?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak Tracker" />
   <!-- STREAK_BADGE_END -->
 </div>
