@@ -102,7 +102,6 @@ Not an expert. Building the foundation now.
   <img src="https://img.shields.io/badge/Current_Streak-9_days-a78bfa?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak Tracker" />
   <!-- STREAK_BADGE_END -->
 </div>
-</div>
 
 ---
 
