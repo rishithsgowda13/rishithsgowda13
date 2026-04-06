@@ -93,7 +93,7 @@ Not an expert. Building the foundation now.
   
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=rishithsgowda13&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=6a00ff&currStreakLabel=a78bfa&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=6b7280&stroke=0d1117" width="100%" />
+  <img src="./github-streak-stats.svg" width="100%" />
 </div>
 
 ---
