@@ -1,0 +1,41 @@
+name: Update Streak
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  update-streak:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Streak Tracker Script
+        run: python scripts/update_streak.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit Updated README
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update actual live streak count [skip ci]"
+          file_pattern: README.md github-streak-stats.svg
