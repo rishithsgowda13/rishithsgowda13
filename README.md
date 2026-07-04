@@ -89,11 +89,7 @@ Not an expert. Building the foundation now.
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishithsgowda13&theme=react-dark&area=true&hide_border=true" width="100%" />
-  
-  <br/>
-
-  <img src="./github-streak-stats.svg" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=rishithsgowda13&hide_border=true&background=0d1117&ring=a78bfa&fire=6a00ff&currStreakLabel=a78bfa&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=6b7280&stroke=0d1117&border_radius=10&date_format=j%20M%5B%20Y%5D" width="100%" />
 </div>
 
 ---
