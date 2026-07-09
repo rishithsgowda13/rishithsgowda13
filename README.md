@@ -86,22 +86,7 @@ Not an expert. Building the foundation now.
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-  <img src="./github-streak-stats.svg" width="100%" />
-</div>
-
----
-
-## 💭 Mindset
-
-- Consistency over motivation
-- Observing more than speaking
-- Understanding before using
-- Always in progress
-
----
 
 <div align="center">
 
